@@ -137,7 +137,7 @@
 <body>
 
 <header>
-    <h1>Willkommen auf meiner Fotografie-Webseite</h1>
+    <h1>Willkommen bei byThamin Fotografie</h1>
 </header>
 
 <nav>
@@ -179,8 +179,6 @@
     <p>Folge mir auf:</p>
     <div class="social-links">
         <a href="https://instagram.com" target="_blank">Instagram</a>
-        <a href="https://facebook.com" target="_blank">Facebook</a>
-        <a href="https://twitter.com" target="_blank">Twitter</a>
     </div>
     <a href="#" class="impressum-link">Impressum</a>
     <p>&copy; 2025 Deine Fotografie</p>
